@@ -1,0 +1,1 @@
+# STMF32F3_discovery_template
